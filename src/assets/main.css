@@ -499,6 +499,11 @@ footer p {
   justify-content: center;
 }
 
+.not-found {
+  text-align: center;
+  margin-top: 50px;
+}
+
 /* Styles pour les conteneurs de compétences */
 .skills-container {
   display: flex; /* Utilisation de Flexbox */

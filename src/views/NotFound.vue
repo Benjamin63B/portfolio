@@ -22,8 +22,5 @@ export default {
 </script>
 
 <style scoped>
-.not-found {
-  text-align: center;
-  margin-top: 50px;
-}
+@import url('../assets/main.css');
 </style>
